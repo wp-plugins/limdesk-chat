@@ -1,7 +1,7 @@
 === Limdesk chat ===
 Contributors: Limdesk
 Donate link:   
-Tags: test, first
+Tags: crm, widget, chat
 Requires at least: 3.9.1
 Tested up to: 3.9.2
 Stable tag: 1.0
