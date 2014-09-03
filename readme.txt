@@ -32,7 +32,7 @@ Sign in to Limdesk account and click Settings -> Chat -> API and Widget
 
 == Screenshots ==
 
-1. If you set existing hash value in "Limdesk Chat" menu, then on your Wordpress page the chat bar will appear (like in the screenshot below)
+1. If you set existing hash value in "Limdesk Chat" menu, then on your Wordpress page the chat bar will appear (like in the screenshot above)
 
 == Changelog ==
 
