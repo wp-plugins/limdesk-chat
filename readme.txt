@@ -18,8 +18,14 @@ The Limdesk Chat integration plugin for Wordpress.
 Add a Limdesk Chat to your Wordpress site.
 
 == Installation ==
+1. Type 'Limdesk Chat' in search field in 'Plugins' menu
+1. Install
+1. Activate
+1. Profit!
 
-1. Upload `limdesk-chat.php` to the `/wp-content/plugins/` directory
+Or
+
+1. Upload zip by WordPress panel
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Save 'Hash value' in the 'Limdesk Chat' menu in WordPress
 1. Profit!
